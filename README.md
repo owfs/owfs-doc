@@ -1,1 +1,1 @@
-This repository is only used for the wiki. Please see https://github.com/owfs/owfs-doc/wiki
+## Please use the (Wiki)[https://github.com/owfs/owfs-doc/wiki]
